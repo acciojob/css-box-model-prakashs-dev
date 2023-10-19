@@ -1,29 +1,9 @@
 
-/* Your CSS Code here. */
-.box {
+#box {
     width: 300px;
+    background-color: lightblue;
     border: 15px solid blue;
-    height: 100px;
-    background-color: lightblue;
     padding: 50px;
-}
-
-.box1 {
-    background-color: lightblue;
-    width: 300px;
-    border: 1px solid black;
-    height: 100px;  
-}
-
-.box-txt{
-    width: 300px;
-    margin-top: 18px;
-}
-.box-head{
-    border: 1px solid black;
-    width: 475px;
-    height: 275px;
-}
-.box-child{
     margin: 20px;
+    text-align: left;
 }
